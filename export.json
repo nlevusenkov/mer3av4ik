@@ -1,0 +1,148 @@
+{
+  "createdUser": {
+    "name": "morpheus",
+    "job": "leader",
+    "id": "436",
+    "createdAt": "2022-10-05T05:23:49.634Z"
+  },
+  "token": "QpwL5tke4Pnpja7X4",
+  "resources": [
+    {
+      "id": 1,
+      "name": "cerulean",
+      "year": 2000,
+      "color": "#98B2D1",
+      "pantone_value": "15-4020"
+    },
+    {
+      "id": 2,
+      "name": "fuchsia rose",
+      "year": 2001,
+      "color": "#C74375",
+      "pantone_value": "17-2031"
+    },
+    {
+      "id": 3,
+      "name": "true red",
+      "year": 2002,
+      "color": "#BF1932",
+      "pantone_value": "19-1664"
+    },
+    {
+      "id": 4,
+      "name": "aqua sky",
+      "year": 2003,
+      "color": "#7BC4C4",
+      "pantone_value": "14-4811"
+    },
+    {
+      "id": 5,
+      "name": "tigerlily",
+      "year": 2004,
+      "color": "#E2583E",
+      "pantone_value": "17-1456"
+    },
+    {
+      "id": 6,
+      "name": "blue turquoise",
+      "year": 2005,
+      "color": "#53B0AE",
+      "pantone_value": "15-5217"
+    },
+    {
+      "id": 7,
+      "name": "sand dollar",
+      "year": 2006,
+      "color": "#DECDBE",
+      "pantone_value": "13-1106"
+    },
+    {
+      "id": 8,
+      "name": "chili pepper",
+      "year": 2007,
+      "color": "#9B1B30",
+      "pantone_value": "19-1557"
+    },
+    {
+      "id": 9,
+      "name": "blue iris",
+      "year": 2008,
+      "color": "#5A5B9F",
+      "pantone_value": "18-3943"
+    },
+    {
+      "id": 10,
+      "name": "mimosa",
+      "year": 2009,
+      "color": "#F0C05A",
+      "pantone_value": "14-0848"
+    },
+    {
+      "id": 11,
+      "name": "turquoise",
+      "year": 2010,
+      "color": "#45B5AA",
+      "pantone_value": "15-5519"
+    },
+    {
+      "id": 12,
+      "name": "honeysuckle",
+      "year": 2011,
+      "color": "#D94F70",
+      "pantone_value": "18-2120"
+    }
+  ],
+  "envs": {
+    "ALLUSERSPROFILE": "C:\\ProgramData",
+    "APPDATA": "C:\\Users\\mer3a\\AppData\\Roaming",
+    "COLORTERM": "true",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "CommonProgramW6432": "C:\\Program Files\\Common Files",
+    "COMPUTERNAME": "DESKTOP-TOIHNF8",
+    "ComSpec": "C:\\WINDOWS\\system32\\cmd.exe",
+    "DEBUG_COLORS": "true",
+    "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "FORCE_COLOR": "true",
+    "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
+    "FPS_BROWSER_USER_PROFILE_STRING": "Default",
+    "HOMEDRIVE": "C:",
+    "HOMEPATH": "\\Users\\mer3a",
+    "IDEA_INITIAL_DIRECTORY": "C:\\Users\\mer3a\\OneDrive\\Desktop",
+    "JB_INTERPRETER": "C:/Program Files/nodejs/node",
+    "JB_PUBLISH_PORT": "58505",
+    "LOCALAPPDATA": "C:\\Users\\mer3a\\AppData\\Local",
+    "LOGONSERVER": "\\\\DESKTOP-TOIHNF8",
+    "MOCHA_COLORS": "1",
+    "NODE_OPTIONS": "--require C:\\Users\\mer3a\\AppData\\Local\\Temp\\debugConnector.193.6911.26.js",
+    "npm_config_color": "always",
+    "NUMBER_OF_PROCESSORS": "2",
+    "OneDrive": "C:\\Users\\mer3a\\OneDrive",
+    "OneDriveConsumer": "C:\\Users\\mer3a\\OneDrive",
+    "OS": "Windows_NT",
+    "Path": "C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Program Files\\Microsoft SQL Server\\130\\Tools\\Binn\\;C:\\Program Files\\Microsoft SQL Server\\Client SDK\\ODBC\\170\\Tools\\Binn\\;C:\\Program Files\\nodejs\\;D:\\;C:\\Users\\mer3a\\AppData\\Local\\Microsoft\\WindowsApps;C:\\wamp64\\bin\\php\\php5.6.40;C:\\Users\\mer3a\\AppData\\Local\\ComposerSetup\\bin;C:\\Users\\mer3a\\AppData\\Roaming\\Composer\\vendor\\bin;C:\\Users\\mer3a\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\mer3a\\AppData\\Roaming\\npm",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "PROCESSOR_IDENTIFIER": "Intel64 Family 6 Model 58 Stepping 9, GenuineIntel",
+    "PROCESSOR_LEVEL": "6",
+    "PROCESSOR_REVISION": "3a09",
+    "ProgramData": "C:\\ProgramData",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "ProgramW6432": "C:\\Program Files",
+    "PSModulePath": "C:\\Program Files\\WindowsPowerShell\\Modules;C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules",
+    "PUBLIC": "C:\\Users\\Public",
+    "REQRES_AUTH_TOKEN": "QpwL5tke4Pnpja7X4",
+    "SESSIONNAME": "Console",
+    "SystemDrive": "C:",
+    "SystemRoot": "C:\\WINDOWS",
+    "TEMP": "C:\\Users\\mer3a\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\mer3a\\AppData\\Local\\Temp",
+    "USERDOMAIN": "DESKTOP-TOIHNF8",
+    "USERDOMAIN_ROAMINGPROFILE": "DESKTOP-TOIHNF8",
+    "USERNAME": "mer3a",
+    "USERPROFILE": "C:\\Users\\mer3a",
+    "VBOX_MSI_INSTALL_PATH": "C:\\Program Files\\Oracle\\VirtualBox\\",
+    "windir": "C:\\WINDOWS"
+  }
+}
